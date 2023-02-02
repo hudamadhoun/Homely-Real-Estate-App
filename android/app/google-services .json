@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79538638859",
+    "project_id": "aqarat-180ac",
+    "storage_bucket": "aqarat-180ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79538638859:android:6881c0ccb2d658b7dbf70e",
+        "android_client_info": {
+          "package_name": "com.example.aqarat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79538638859-u0nkffbe373j2l0avicdi86411et1g0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKySKVr7WnfPgeILvcilC5PuYNmjOxqdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79538638859-u0nkffbe373j2l0avicdi86411et1g0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
